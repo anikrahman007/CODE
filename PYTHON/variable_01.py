@@ -9,7 +9,7 @@ def name(person):
     if person != "anik":
       return ("Hello,"+ " "+ person)
     else:
-      return ("Hello, anik" + "Where is the person? ")
+      return ("Hello, anik" + " " + "Where is the person? ")
 
 
 def number(x):
